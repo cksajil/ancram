@@ -1,0 +1,17 @@
+The experiment configuration were
+
+Sampling Rate      					: 		2000.0
+Sound Speed        					: 		343
+Room size          					: 		[6, 4, 3]
+RIR Samples length 					: 		1000
+Microphone Type        				: 		omnidirectional
+Beta               					: 		0.4
+Number of Reflections  				: 		-1
+Simulation Dimentions  				: 		3
+Microphone Orientation  			: 		0
+High Pass Filter        			: 		1
+Normalised Simulation Time        	: 		100000
+Filter length        				: 		256
+Learning Rate        				: 		1e-05
+Anti Source Separation              :       0.11
+Monte Carlo length                  :       100
