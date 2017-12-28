@@ -45,7 +45,7 @@ pandas==0.20.1,
 pip==9.0.1,
 scipy==0.19.1. 
 ```
-[![Download PDF](https://image.ibb.co/hoAbYk/pdf.png)](to be added)        [![Found a bug ?](https://image.ibb.co/b8twYk/bug.png)](mailto:sajilckdcb@keralauniversity.ac.in)      [![Download Data](https://image.ibb.co/jL5MzQ/data.png)](https://github.com/cksajil/ancram/blob/master/Cluster_0/Results/Results__Zpos_1_53_Cluster_0.csv)     [![Cite](https://image.ibb.co/cVN1zQ/cite.png)](to be added)
+[![Download PDF](https://image.ibb.co/hoAbYk/pdf.png)]()        [![Found a bug ?](https://image.ibb.co/b8twYk/bug.png)](mailto:sajilckdcb@keralauniversity.ac.in)      [![Download Data](https://image.ibb.co/jL5MzQ/data.png)](https://github.com/cksajil/ancram/blob/master/Cluster_0/Results/Results__Zpos_1_53_Cluster_0.csv)     [![Cite](https://image.ibb.co/cVN1zQ/cite.png)]()
 
 
 
