@@ -1,4 +1,4 @@
-## Effect of Transducer Positioning in Active Noise Control(Submitted for review)
+## Effect of Transducer Positioning in Active Noise Control
 
 
 ### Sajil C. K., Biji C. L. and Achuthsankar S. Nair
