@@ -54,9 +54,6 @@ scipy==0.19.1.
 
 ### Contact
 **Sajil C. K.**,
-Research Scholar,
-Dept. of Computational Biology & Bioinformatics,
-University of Kerala, Kerala- 695581, India.
 **Email : sajilck@gmail.com**
 
 
