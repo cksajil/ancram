@@ -53,7 +53,8 @@ scipy==0.19.1.
 
 
 ### Contact
-**Sajil C. K.**,
+**Sajil C. K.**
+
 **Email : sajilck@gmail.com**
 
 
